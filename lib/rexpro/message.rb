@@ -1,4 +1,4 @@
-require 'msgpack'
+require 'msgpack-jruby'
 require 'uuid'
 
 # https://github.com/tinkerpop/rexster/wiki/RexPro-Messages
